@@ -1,0 +1,5 @@
+# Visual Studio created the .gitignore file in the MovieProject directory,
+# but that does not ignore the .vs directory, since it is in the parent directory.
+# So this .gitignore file was added to ignore that directory.
+# Ignore Visual Studio 2015 cache/options directory
+.vs/
